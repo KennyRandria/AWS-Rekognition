@@ -31,7 +31,7 @@ function Test(){
 
     return(
       <div>
-      <h1 className="AgeEstimator">Facial Recognition</h1>
+      <h1 className="AgeEstimator">AWS Rekognition</h1>
 <div className="container">
   <div>
    <input className="Image" type="file" name="fileToUpload" id="fileToUpload" accept="image/*" onChange={changeImage}></input>
